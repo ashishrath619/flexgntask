@@ -43,13 +43,13 @@ function Aboutus() {
             <br />
 
             <p>
-              flexagn started with a dream to make daily learning a habit for
-              kids As parents,we resonated well with the pain points of many
-              parents for inspired learning cs,grade-driven learning.We believe
+              Flexagn started with a dream to make daily learning a habit for
+              kids. As parents, we resonated well with the pain points of many
+              parents for inspired learning vs.grade-driven learning. We believe
               that learning can be made much more fun, inspiring and interactive
-              cia gameplay.The found team has year of combined collaborative
-              social gamming and ed-tech experience and is on a missionn to
-              bring the best fusion out of eduction and games for kids.
+              via gameplay.The founding team has years of combined collaborative
+              social gaming and ed-tech experience and is on a mission to bring
+              the best fusion out of eduction and games for kids.
             </p>
           </div>
           <div className="col">

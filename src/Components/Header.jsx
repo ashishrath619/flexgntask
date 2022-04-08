@@ -21,7 +21,7 @@ export default function HeaderComponent() {
         <Container>
           <Navbar.Brand href="#home">
             <img src={flexgnlogo} className="logoimg" alt="#" />
-            <span className="brandText">Flexgn</span>
+            <span className="brandText">Flexagn</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
