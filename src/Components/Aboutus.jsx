@@ -92,7 +92,6 @@ function Aboutus() {
               </div>
               <div className="col">
                 <OverlayTrigger
-                  trigger="click"
                   placement="bottom"
                   overlay={popover}
                   delay={{ show: 250, hide: 400 }}
